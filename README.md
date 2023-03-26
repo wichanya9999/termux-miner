@@ -130,12 +130,12 @@ INSTALL IN Termux android (ubuntu)
    
     ./start-ubuntu.sh 
     apt-get update && apt-get upgrade -y 
-   apt install git -y 
-   apt install proot -y 
-   apt-get install automake autoconf pkg-config libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev zlib1g-dev make g++ libtool 
-   git clone https://github.com/wichanya9999/termux-miner 
-   cd termux-miner 
-   ./build-android.sh 
+    apt install git -y 
+    apt install proot -y 
+    apt-get install automake autoconf pkg-config libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev zlib1g-dev make g++ libtool 
+    git clone https://github.com/wichanya9999/termux-miner 
+    cd termux-miner 
+    ./build-android.sh 
     
 RUN Miner IN Termux android (ubuntu) 
     
