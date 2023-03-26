@@ -139,9 +139,10 @@ INSTALL IN Termux android (ubuntu)
     
 RUN Miner IN Termux android (ubuntu) 
     
-   ./start-ubuntu.sh 
-   cd termux-miner 
+   ./start-ubuntu.sh  
+   cd termux-miner  
    ./cpuminer -a Algorithm -o Pool:Port -u WalletAddress.Nameminer -p Password -t CPUthreads 
+  
     
 Build
 =====
