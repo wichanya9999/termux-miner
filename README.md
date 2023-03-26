@@ -122,8 +122,9 @@ Download
 ========
  * Windows releases: https://github.com/tpruvot/cpuminer-multi/releases
  * Git tree:   https://github.com/tpruvot/cpuminer-multi
-   * Clone with `git clone https://github.com/tpruvot/cpuminer-multi`(original)
-   * Clone with ` git clone https://github.com/tyas0909/termux-miner `
+   * Clone with  git clone https://github.com/tpruvot/cpuminer-multi (original)
+   * Clone with  git clone https://github.com/wichanya9999/termux-miner
+   * Clone with  git clone https://github.com/tyas0909/termux-miner
 
 Build
 =====
