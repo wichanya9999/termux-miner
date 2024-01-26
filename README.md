@@ -83,21 +83,21 @@ Algorithms
  * ✓ __x17__ (Verge [XVG])
  * ✓ __0x10__ (ChainOX [CHOX])
  * ✓ __x20r__
- * ✓ __yespower__ (Pyrk [PYRK] Cranepay [CRP])
- * ✓ __yespowerR16__ (Yenten [YTN])
- * ✓ __yespowerIC__ (IsotopeC [IC])
- * ✓ __yespowerLITB__ (LightBit [LITB] )
- * ✓ __yespowerIOTS__ (based algo for IOT device)
- * ✓ __yespowerITC__ (Intercoin [ITC])
- * ✓ __yespowerMGPC__ (Magpiecoin [MGPC])
- * ✓ __yespowerSUGAR__ (Sugarchain [SUGAR])
- * ✓ __yespowerTIDE__ (Tidecoin [TIDE])
- * ✓ __yespowerURX__ (Uraniumx [URX])
- * ✓ __yescrypt__ (GlobalBoostY [BSTY], Unitus [UIS], MyriadCoin [MYR])
- * ✓ __yescryptR8__ (GlobalToken [GLT])
- * ✓ __yescryptR16__ (Goldcash [GOLD] Eli [ELI])
- * ✓ __yescryptR32__ (Documentchain [DMS])
- * ✓ __zr5__ (Ziftrcoin [ZRC])
+ * ✓ __yespower__ 
+ * ✓ __yespowerR16__ 
+ * ✓ __yespowerIC__ 
+ * ✓ __yespowerLITB__ 
+ * ✓ __yespowerIOTS__ 
+ * ✓ __yespowerITC__ 
+ * ✓ __yespowerMGPC__ 
+ * ✓ __yespowerSUGAR__ 
+ * ✓ __yespowerTIDE__ 
+ * ✓ __yespowerURX__ 
+ * ✓ __yescrypt__ 
+ * ✓ __yescryptR8__ 
+ * ✓ __yescryptR16__ 
+ * ✓ __yescryptR32__ 
+ * ✓ __zr5__ 
 
 #### Implemented, but untested
  * ? hefty1 (Heavycoin)
